@@ -24,12 +24,12 @@ pip install matplotlib
 ## Datasets
 
 1. **Wine Quality Dataset:**
-   - Dataset file: `drive/MyDrive/winequality-white.csv`
+   - Dataset file: [`winequality-white.csv`](winequality-white.csv)
    - Features (`X_wine`): All columns except the last one
    - Labels (`y_wine`): Quality Group (categorized as 'Bad' or 'Good')
 
 2. **Breast Cancer Dataset:**
-   - Dataset file: `drive/MyDrive/wdbc.data`
+   - Dataset file: [`wdbc.data`](wdbc.data)
    - Features (`X_cancer`): All columns except the first one
    - Labels (`y_cancer`): 'M' (Malignant) or 'B' (Benign)
 
