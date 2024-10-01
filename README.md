@@ -4,8 +4,6 @@
 
 This repository contains a Jupyter Notebook ([`SL_Assigment1.ipynb`](SL_Assigment1.ipynb)) that demonstrates the application of various supervised learning techniques on two different datasets: Wine Quality Dataset and Breast Cancer Dataset. The notebook explores decision tree, neural network, boosting, SVM and K-neighbour classifiers for both datasets, showcasing learning curves, validation curves, and hyperparameter tuning.
 
-For acessing the files through Georgia Tech affiliation use the following link: [https://gatech.box.com/s/4nhqthiv4j27vksn99x0wmcx555p3ixk](https://gatech.box.com/s/4nhqthiv4j27vksn99x0wmcx555p3ixk)
-
 ## Dependencies
 
 Before running the notebook, ensure you have the necessary dependencies installed. You can install them using the following command:
